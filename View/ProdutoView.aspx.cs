@@ -115,7 +115,7 @@ namespace View
             produto.CodProduto = Convert.ToInt32(lblCodProduto.Text);
             if (_produtoBll.ExcluirProduto(produto))
             {
-                ExibirMensagem("Aluno excluído com sucesso");
+                ExibirMensagem("Produto excluído com sucesso");
                 PosicionarRegistroGrid(-1);
             }
             else

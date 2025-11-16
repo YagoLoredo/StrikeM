@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 
 
-    <title>Gerenciar Alunos</title>
+    <title>Gerenciar Produtos</title>
     <style type="text/css">
         body {
             font-family: Arial, sans-serif;
